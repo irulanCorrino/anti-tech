@@ -24,8 +24,11 @@
 >≠ most of tromploy ('deceive the eye')
 >≠ excessively flat interface or pruning
 >≠ rich design
->≠ hidden comprehence [imagine 'anti-truant' alarm clock with 'smart alarm' function engaged some minutes before main one --the app has a toast message telling timelapse before the alarm --how do i know on what alarm it is reporting if smart one is hidden deeply?]
->≠ right-hand rule [do not even tell me a direction of your native language's script obliges you to make it so --my native language uses TWO scripts written in opposite directions]
+>≠ hidden comprehence [imagine 'anti-truant' alarm clock with 'smart alarm' function engaged some minutes before
+>      main one --the app has a toast message telling timelapse before the alarm --how do i know on what alarm
+>      it is reporting if smart one is hidden deeply?]
+>≠ right-hand rule [do not even tell me a direction of your native language's script obliges you to make it so
+>      --my native language uses TWO scripts written in opposite directions]
 >≠ one vs all
 >≠ notes:
 >    #crosses may be mismatched with angles
