@@ -1,4 +1,4 @@
-#### not friendly to a musician visual layout features<
+##### not friendly to a musician visual layout features
 >```
 >≠ DOTS!
 >     --round-solid radio buttons
