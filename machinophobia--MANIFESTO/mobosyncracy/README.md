@@ -1,27 +1,27 @@
 ##### not friendly to a musician design concepts
 >```
-> ever-changing-developer [i mean 'never-perfect software']
+> ≠ ever-changing-developer [i mean 'never-perfect software']
 > 
-> worse is better
+> ≠ worse is better
 > 
-> the right thing
+> ≠ the right thing
 > 
-> deadline release
+> ≠ deadline release
 > 
-> push-the-wallet release scheme
+> ≠ push-the-wallet release scheme
 > 
-> abandonware
+> ≠ abandonware
 > 
-> mediocre user base for a target
+> ≠ mediocre user base for a target
 >     ('if you want advanced features you must grab unspecified language`s primer yourself' --andrew leskov`s principle)
 >     
-> mob source
+> ≠ mob source
 > 
-> world health organisation guidelines
+> ≠ world health organisation guidelines
 > 
-> orthodox socialist religiousity
+> ≠ orthodox socialist religiousity
 > 
-> software development for a profit
+> ≠ software development for a profit
 > 
-> public-domain-centric ideology
+> ≠ public-domain-centric ideology
 > ```
