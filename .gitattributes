@@ -1,3 +1,5 @@
 # adding essays to source code
 *.md linguist-detectable
 README.md -linguist-documentation
+# to prevent web-view of manifesto from being mistaken for web-software
+*.html linguist-documentation
