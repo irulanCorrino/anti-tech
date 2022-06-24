@@ -30,6 +30,7 @@
 >≠ right-hand rule [do not even tell me a direction of your native language's script obliges you to make it so
 >      --my native language uses TWO scripts written in opposite directions]
 >≠ one vs all
+>≠ what is the difference between 'Open Files' and 'Add Files'? [they are two entries of the same menu]
 >≠ notes:
 >    #crosses may be mismatched with angles
 >
