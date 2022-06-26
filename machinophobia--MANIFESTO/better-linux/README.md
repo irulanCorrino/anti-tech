@@ -11,6 +11,6 @@
 - without udev linux would be much better;
 - without X11 or Wayland linux would be much better;
 - [consequentially] without widget toolkits (GTK, Qt, EFL or whatever else) linux would be much better. i guess real programmer does not need such stuff; only people that received any kind of formal education may benefit from those frameworks but just like creators of those toolkits they use visual editors designed for rapid application/interface development and in reality no one of them is able to code in a programming language. it is just like using stone scraper for cleaning a hide of hunted animal for paying for that stone scraper... you cannot use your nails for cleaning the hide and you cannot wear a stone for clothes!!!
-
+####### you may ask 'But WHO needs you performing your non-classist music?' --and who may need hides and stone scrapers?
 
 
