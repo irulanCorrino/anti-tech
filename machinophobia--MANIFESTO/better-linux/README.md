@@ -20,6 +20,6 @@
 ###### you may ask 'But WHO needs you performing your non-classist music?' --and who may need hides and stone scrapers?
 [^3]: https://en.wiktionary.org/wiki/d%C3%A9merder
 [^5]: https://en.wikipedia.org/wiki/Systemd
-[^4]: [...and i read that. ONE PERSON!!! (but such ugly tone is common for wikipedia-based critics)]
+[^4]: [...and i read that. ONE PERSON!!! (but such an ugly tone is common for wikipedia-based critics)]
 [^2]: https://en.wikipedia.org/wiki/Lennart_Poettering
 [^1]: 'For instance, Poettering has advocated speeding up Linux development at the expense of breaking compatibility with POSIX and other Unix-like operating systems such as the BSDs. He took this position because of his experience in writing some other low-level components in the desktop stack. He invites other developers to do the same. Poettering recommends also reading "The Linux Programming Interface" but ignoring the POSIX-specific parts.'
