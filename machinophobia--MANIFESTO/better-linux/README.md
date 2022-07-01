@@ -5,7 +5,7 @@
 - without mitigations of vulnerabilities linux would be much better;
 - without firewalls linux would be much better;
 - without antiviruses linux would be much better [arch wiki (List of software) proposes clamav and i have some experience with software produced by clam
--- as a musician i used clamChordata --it was SUCH A PIECE OF TRASH];
+-- as a musician i used clamChordata --it was SUCH A PIECE OF TRASH (do not even tell me that some girl like an abalone may have A CHORD!!!)];
 - without 'military-grade AES encryption' & LUKS or dm-raid or whatsoever linux would be much better;
 - without apparmor linux would be much better; [...just some another military stuff];
 - without systemd linux would be much better; ['SystemDumb! Return to the sweatest times of Windows OS 3.11!!!']; 'From dé- + merde + -er, literally “to remove oneself from the shit”'[^3]; 'In October 2012, Arch Linux made systemd the default, also switching from SysVinit. Developers had debated since August 2012 and came to the conclusion that it was faster and had more features than SysVinit, and that maintaining the latter was not worth the effort in patches. Some of them thought that the criticism towards the implementation of systemd was not based on actual shortcomings of the software, rather the disliking of Lennart from a part of the Linux community and the general hesitation for change...' [a fatal decision] '...Specifically, some of the complaints regarding systemd not being programmed in bash, it being bigger and more extensive than SysVinit, the use of D-bus, and the optional on-disk format of the journal were regarded[^4] as advantages by programmers.'[^5];
