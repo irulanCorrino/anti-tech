@@ -38,6 +38,9 @@
 >
 > 1 unit files listed.
 > ```
+
+<img alt="WHAT? -Screenshot_2022-07-02_04-34-43" title="systemDumb! the sweatest taeste of Windows 3.11!!!" src="https://user-images.githubusercontent.com/98284211/177002808-b6d55aef-d69e-4b70-8cd7-d331ce0996cb.png" width="512" />
+
 ---
 
 ###### code sample 1
@@ -47,9 +50,6 @@
 > Failed to enable wireplumber@.service, destination unit pipewire.service is a non-template unit.
 > [root@amelanchier irulan-corrino]# dont do -- to me
 > ```
-
-
-
 
 [^1]: 'For instance, Poettering has advocated speeding up Linux development at the expense of breaking compatibility with POSIX and other Unix-like operating systems such as the BSDs. He took this position because of his experience in writing some other low-level components in the desktop stack. He invites other developers to do the same. Poettering recommends also reading "The Linux Programming Interface" but ignoring the POSIX-specific parts.'
 [^2]: https://en.wikipedia.org/wiki/Lennart_Poettering
