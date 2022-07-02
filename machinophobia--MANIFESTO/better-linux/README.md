@@ -8,7 +8,7 @@
 -- as a musician i used clamChordata --it was SUCH A PIECE OF TRASH (do not even tell me that some girl like an abalone may have A CHORD!!!)];
 - without 'military-grade AES encryption' & LUKS or dm-raid or whatsoever linux would be much better;
 - without apparmor linux would be much better; [...just some another military stuff];
-- without systemd linux would be much better; ['SystemDumb! Return to the sweatest times of Windows OS 3.11!!!']; 'From dé- + merde + -er, literally “to remove oneself from the shit”'[^3]; 'In October 2012, Arch Linux made systemd the default, also switching from SysVinit. Developers had debated since August 2012 and came to the conclusion that it was faster and had more features than SysVinit, and that maintaining the latter was not worth the effort in patches. Some of them thought that the criticism towards the implementation of systemd was not based on actual shortcomings of the software, rather the disliking of Lennart from a part of the Linux community and the general hesitation for change...' [a fatal decision] '...Specifically, some of the complaints regarding systemd not being programmed in bash, it being bigger and more extensive than SysVinit, the use of D-bus, and the optional on-disk format of the journal were regarded[^4] as advantages by programmers.'[^5];
+- without systemd linux would be much better; ['SystemDumb! Return to the sweatest times of Windows OS 3.11!!!']; 'From dé- + merde + -er, literally “to remove oneself from the shit”'[^3]; 'In October 2012, Arch Linux made systemd the default, also switching from SysVinit. Developers had debated since August 2012 and came to the conclusion that it was faster and had more features than SysVinit, and that maintaining the latter was not worth the effort in patches. Some of them thought that the criticism towards the implementation of systemd was not based on actual shortcomings of the software, rather the disliking of Lennart from a part of the Linux community and the general hesitation for change...' [a fatal decision] '...Specifically, some of the complaints regarding systemd not being programmed in bash, it being bigger and more extensive than SysVinit, the use of D-bus, and the optional on-disk format of the journal were regarded[^4] as advantages by programmers.'[^5]; *final note:* wikipedians are ranting on 'old-fashioned linux users who are not ready to a switching from plain shell scripts and init scripts to some more abstract[^6] approach [like to one of this popular shit discussed here]' --this piece of trashy software is NOT ABSTRACT --it is derived[^6][^7][^8] AND contrived[^6][^7][^8];
 - without udev linux would be much better; ['no! --you develop!'];
 - without pulseAudio linux would be much better; 'In 2011 Poettering, one of the main developers of PulseAudio, praised ~~the Windows~~ and macOS audio stacks as "~~more advanced~~" [and called Open Sound System "a simplistic 90s style audio stack" without relevance for a modern desktop].'[^2] [~~strike-through~~ is mine];
 - without portAudio linux would be much better;
@@ -18,8 +18,44 @@
 
 ---
 ###### you may ask 'But WHO needs you performing your non-classist music?' --and who may need hides and stone scrapers?
-[^3]: https://en.wiktionary.org/wiki/d%C3%A9merder
-[^5]: https://en.wikipedia.org/wiki/Systemd
-[^4]: [...and i read that. ONE PERSON!!! (but such an ugly tone is common for wikipedia-based critics)]
-[^2]: https://en.wikipedia.org/wiki/Lennart_Poettering
+---
+###### code sample 0
+
+> ```
+> [irulan-corrino@amelanchier ~]$ systemctl --user list-unit-files pulseaudio
+> UNIT FILE STATE VENDOR PRESET
+>
+> 0 unit files listed. # ........................................... what DO YOU THINK it does mean?
+>
+> [irulan-corrino@amelanchier ~]$ systemctl --user list-unit-files pipewire
+> UNIT FILE STATE VENDOR PRESET
+>
+> 0 unit files listed.
+>
+> [irulan-corrino@amelanchier ~]$ systemctl --user list-unit-files pipewire.service
+> UNIT FILE        STATE   VENDOR PRESET
+> pipewire.service enabled enabled      
+>
+> 1 unit files listed.
+> ```
+---
+
+###### code sample 1
+
+> ```
+> [root@amelanchier irulan-corrino]# systemctl --global enable wireplumber@.service
+> Failed to enable wireplumber@.service, destination unit pipewire.service is a non-template unit.
+> [root@amelanchier irulan-corrino]# dont do -- to me
+> ```
+
+
+
+
 [^1]: 'For instance, Poettering has advocated speeding up Linux development at the expense of breaking compatibility with POSIX and other Unix-like operating systems such as the BSDs. He took this position because of his experience in writing some other low-level components in the desktop stack. He invites other developers to do the same. Poettering recommends also reading "The Linux Programming Interface" but ignoring the POSIX-specific parts.'
+[^2]: https://en.wikipedia.org/wiki/Lennart_Poettering
+[^3]: https://en.wiktionary.org/wiki/d%C3%A9merder
+[^4]: [...and i read that. ONE PERSON!!! (but such an ugly tone is common for wikipedia-based critics)]
+[^5]: https://en.wikipedia.org/wiki/Systemd
+[^6]: 'A plain unit (not a template or an instance), may only be aliased by a plain name. A template instance may only be aliased by another template instance, and the instance part must be identical. A template may be aliased by another template (in which case the alias applies to all instances of the template). As a special case, a template instance (e.g.  "alias@inst.service") may be a symlink to different template (e.g.  "template@inst.service"). In that case, just this specific instance is aliased, while other instances of the template (e.g.  "alias@foo.service", "alias@bar.service") are not aliased. Those rules preserve the requirement that the instance (if any) is always uniquely defined for a given unit and all its aliases.'
+[^7]: see code sample 0
+[^8]: see code sample 1
