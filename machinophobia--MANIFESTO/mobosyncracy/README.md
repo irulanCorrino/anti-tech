@@ -55,4 +55,13 @@
 >     I HAD NO PROBLEMS using the same image (uploaded in full size) for my github profile!!!
 >     i refuse to HAVE NO PHYSICAL APPEARANCE so i would not ask you for help anymore.
 >     i shall play music without you
+>
+> ≠ CATS!!! using furry fandom for a model of perfect developer is
+>     not only making one a worst coder/designer but it makes her
+>     or him a hypocrite. i imagine one sitting at some cosy loft
+>     with powerful laptop and coding/dragging while a maid who is
+>     responsible for not dieing of hunger has wasted an hour cleaning
+>     off all the shit and the fur that thirteen cats of famous person
+>     do spread all around in one day!
+>
 > ```
