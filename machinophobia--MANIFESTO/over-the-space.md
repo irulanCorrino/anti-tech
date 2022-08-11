@@ -186,7 +186,7 @@
 [^2]: 'The Unix operating system [sic] also became popular, but lacked the real-time features and extremely small size of RT-11' https://en.m.wikipedia.org/wiki/Ultrix cf. https://en.m.wikipedia.org/wiki/OSF/1#Background
 [^3]: https://en.m.wikipedia.org/wiki/UKNC
 [^4]: https://en.m.wikipedia.org/wiki/Vilnius_BASIC
-[^5]: cf. https://en.m.wikipedia.org/wiki/C_(programming_language)
+[^5]: cf. https://en.m.wikipedia.org/wiki/C_(programming_language) 'It has found lasting use in operating systems, device drivers, protocol stacks, ~though decreasingly~ for application software'
 [^6]: there was no difference in run speed between a program if made with this BASIC or if made with its compiler counterpart [that was separate application lacking editing features; oftenly was missing/incompatible] —only size of compiled program was smaller; programs written in pure assembly were much faster and all vendor software was implemented in assembly] https://en.m.wikipedia.org/wiki/Threaded_code 
 [^7]: https://en.m.wikipedia.org/wiki/DVK
 [^8]: \e\ '(also known as /e/ OS and /e/OS, formerly Eelo) is an Android-based mobile operating system and associated online services. The operating system is a fork of LineageOS and Android. The custom firmware is developed by the /e/ Foundation, which was founded by French entrepreneur Gaël Duval. /e/ is presented as privacy software that does not contain proprietary Google apps or services, and challenges the public to "find any parts of the system or default applications that are still leaking data to Google."' https://en.m.wikipedia.org/wiki//e/_(operating_system)
