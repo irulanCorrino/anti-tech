@@ -173,7 +173,7 @@
 - 'Earlier models of DVK series were based on K1801VM1 or K1801VM2 microprocessors with 16 bit address bus. In the later models, the KM1801VM3 microprocessor (with 22 bit extended address bus) was used.'
 ---
 # there were many abandoned software projects that could be set into something REALLY impressive ...if not were put back by an involvement of one PARTICULARLY INFLUENTIAL DEVELOPER...
-- today[^8] `\e\` OS is getting into the market putting back google’s Android while promoting `entirely different moral\ethical values` —no survellance over the user + free cloud services + streamlined user interface + OTA updates + system based on famous source + no‑third‑party app base&store
+- today[^8] `\e\` OS is getting into the market putting back google’s Android while promoting `entirely different moral\ethical values` —no surveillance over the user + free cloud services + streamlined user interface + OTA updates + system based on famous source + no‑third‑party app base&store
 - but as one of `linux` kernel developers has said 'if there is no linux —there is no android' ...so if there is no android —there is no \e\
 - ...so maybe there would be no `google` and no `linus torvalds` —but `impressively performant russian OS` called by cosmopolite wikipedians `Fodos Mobile` would take up the Future[^9]
 ---
