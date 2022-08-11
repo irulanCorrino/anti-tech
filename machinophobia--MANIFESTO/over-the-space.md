@@ -177,11 +177,18 @@
 - but as one of `linux` kernel developers has said 'if there is no linux —there is no android' ...so if there is no android —there is no \e\
 - ...so maybe there would be no `google` and no `linus torvalds` —but `impressively performant russian OS` called by cosmopolite wikipedians `Fodos Mobile` would take up the Future[^9]
 ---
-> [missing picture]
-> UKNC
-> Yamaha YIS503II MSX Personal Computer designed for Soviet schools—the abbreviature "КУВТ" ["KUVT"] ("Комплект учебной вычислительной техники") means "A Set of Teaching Computing Equipment"
-> Vilnius BASIC on BK-0010-01
-> DVK
+UKNC
+<img alt="Soviet computer UKNC" title="Soviet computer UKNC" src="https://user-images.githubusercontent.com/98284211/184098413-443610e7-fb56-45f8-a971-35f15852ea41.jpg" width="512" />
+
+Yamaha YIS503II MSX Personal Computer designed for Soviet schools—the abbreviature "КУВТ" ["KUVT"] ("Комплект учебной вычислительной техники") means "A Set of Teaching Computing Equipment"
+<img alt="YAMAHA MSX" title="YAMAHA MSX" src="https://user-images.githubusercontent.com/98284211/184098545-6fb1a595-4640-4913-be11-18bd77533757.jpeg" width="512" />
+
+Vilnius BASIC on BK-0010-01
+<img alt="Basic-Vilnus-running-at-Wikipedia" title="Basic Vilnus running at Wikipedia" src="https://user-images.githubusercontent.com/98284211/184098611-ce1e9e58-0b4f-4260-9845-d94ae0602356.png" width="512" />
+
+DVK
+<img alt="Soviet computer DVK-2" title="Soviet computer DVK-2" src="https://user-images.githubusercontent.com/98284211/184098678-53ab7491-0d1d-4369-aa90-5274521fcf3d.jpeg" width="512" />
+
 [^1]: https://en.m.wikipedia.org/wiki/RT-11
 [^2]: 'The Unix operating system [sic] also became popular, but lacked the real-time features and extremely small size of RT-11' https://en.m.wikipedia.org/wiki/Ultrix cf. https://en.m.wikipedia.org/wiki/OSF/1#Background
 [^3]: https://en.m.wikipedia.org/wiki/UKNC
