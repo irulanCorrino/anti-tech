@@ -16,6 +16,14 @@
 >     ('if you want advanced features you must grab unspecified language`s primer yourself' --andrew leskov`s principle)
 >     
 > ≠ mob source
+>     [this example tells about animals but is still valid for our brain mechanics]
+>     cats can learn to speak —my governor ['mother'] had a cat and she said her own name
+>        (only me was able to understand she spoke);
+>     it is easier to cats than to dogs because dogs have long jaws and big tongues;
+>     that cat lived in a company of another female cat and THEY WERE ONLY ANIMALS IN THE FLAT for several years
+>     —after then my governor has turned to overt hoarding [those two cats died many years ago]
+>     —she has two dogs and thirteen cats i guess —no one of them speaks!!!
+>     some of those cats DO imitate intonation mannerisms of my governor but mostly they learn one from another
 > 
 > ≠ world health organisation guidelines
 > 
