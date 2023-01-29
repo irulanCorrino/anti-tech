@@ -1,4 +1,4 @@
-#### all the stuff is broken. fuck. they declare 'Minimalism' telling base system is sufficient. no way without DE in reality
+#### all the stuff is broken. fuck[^1]. they declare 'Minimalism' telling base system is sufficient. no way without DE in reality
 # this what has hapened to me and my laptop called amelanchier [ASUS K5OIN, Pentium T4300, Penryn]
 - from my mail box ['message to myself']:
 > ```
@@ -763,3 +763,4 @@
 > --
 > sov thade tage em ereb
 > ```
+[^1]: 'why have you decided to perform clean install of base system? you have made it a few weeks ago!!!' you would ask; i have tried TO MOUNT removable storage in caja ...then in terminal ...then to attach these logs to the email in seamonkey [as browser] ...then installed udiskie ...then another text editor [from XFCE, probably] ...then pcmanfm-gtk3 ...then have lost working installation!!!!
