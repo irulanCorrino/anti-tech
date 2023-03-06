@@ -1,0 +1,528 @@
+#### <div align="center">hello i am poetess</div>
+<div align="center"><ins>and a programmer ...i am unemployed ...poor ...i understand you crave for a luxury</ins></div>
+
+- i understand:
+  - you formally trained colleagues may have luxury `cinerama backends`, powerful office chairs, `transformer` desks
+  - but i have two weak laptops, a smarphone, a tablet and two guitar DSPs
+- but i AM A PROGRAMMER!
+  - I HAVE MY BACK BONE ACHE
+  - MY EYES ARE IMPRECISE
+  - MY ASS IS WORN
+  - ...i want to lay down into my bed for writing my code, can you understand me?
+### [i have watched a crust-breaking lecture from Jeffrey Kaplan](https://www.youtube.com/watch?v=KVl5kMXz1vA)
+- i was taught that `no one ever will make any luxury gifts to you without you deserving such reward by your servility`
+  - it was imprinted into my mind by A WOMAN THAT ADOPTED ME!!!
+- no no now i understand i am not a hypocrite bohemia person...
+- no no now i know i am a victim of the social order
+- i understand you in your universities make big money by selling my life printed on the secure punchcards
+- i understand you educated fools cannot get into the programming but are merely pushing your societal status
+
+<p align="center">
+ <img width="33%" alt="defacing Screenshot_2023-03-06_17-25-17" title="securely defaced nature of a man" src="https://user-images.githubusercontent.com/98284211/223150793-49a8c0ce-3ce7-4f26-b263-df7c0e77eea7.png">
+</p>
+
+#### <div align="center">but my neck is aching ...my bowel is affected with IBS ...the alarm ringing after two hours of sleep</div>
+<p align="center">
+ <img width="33%" alt="Defacing Screenshot_2023-03-06-17-24-31" title="i am leaving the university!!! fuck the money" src="https://user-images.githubusercontent.com/98284211/223152634-cdae15ac-7138-454c-b71b-ff5e200786cd.png">
+</p>
+
+#### <div align="center">what do i get? no one believes me; i am banned and banished by the forums' academia</div>
+<div align="center"><ins>here is my code:</ins></div>
+
+```bash
+sov-x550cc:[sov-thade-tage]:~$ sudo su
+[sudo] password for sov-thade-tage: 
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S codeblocks
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (2) boost-libs-1.81.0-3  codeblocks-20.03-4
+
+Total Download Size:   15.38 MiB
+Total Installed Size:  51.67 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ codeblocks-20.03-4-x86_64         13.2 MiB  1014 KiB/s 00:13 [##################################] 100%
+ boost-libs-1.81.0-3-x86_64         2.2 MiB  2.61 MiB/s 00:01 [##################################] 100%
+ Total (2/2)                       15.4 MiB  1103 KiB/s 00:14 [##################################] 100%
+(2/2) checking keys in keyring                                [##################################] 100%
+(2/2) checking package integrity                              [##################################] 100%
+(2/2) loading package files                                   [##################################] 100%
+(2/2) checking for file conflicts                             [##################################] 100%
+(2/2) checking available disk space                           [##################################] 100%
+:: Processing package changes...
+(1/2) installing boost-libs                                   [##################################] 100%
+Optional dependencies for boost-libs
+    openmpi: for mpi support [installed]
+(2/2) installing codeblocks                                   [##################################] 100%
+:: Running post-transaction hooks...
+(1/3) Updating the MIME type database...
+(2/3) Updating icon theme caches...
+(3/3) Updating the desktop file MIME type cache...
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S kturtle
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Download Size:    6.00 MiB
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ knewstuff-5.103.0-1-x86_64      2034.0 KiB   730 KiB/s 00:03 [##################################] 100%
+ kturtle-22.12.3-1-x86_64        2010.3 KiB  2039 KiB/s 00:01 [##################################] 100%
+ syndication-5.103.0-1-x86_64    1024.5 KiB  2.12 MiB/s 00:00 [##################################] 100%
+ attica-5.103.0-1-x86_64          734.5 KiB  2.70 MiB/s 00:00 [##################################] 100%
+ kpackage-5.103.0-1-x86_64        336.9 KiB  2.02 MiB/s 00:00 [##################################] 100%
+ Total (5/5)                        6.0 MiB  1129 KiB/s 00:05 [##################################] 100%
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] n
+error: syndication: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/syndication-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] n
+error: knewstuff: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/knewstuff-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] n
+error: failed to commit transaction (invalid or corrupted package)
+Errors occurred, no packages were upgraded.
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Syyu kturtle
+:: Synchronizing package databases...
+ system                           264.7 KiB  88.8 KiB/s 00:03 [##################################] 100%
+ world                              2.0 MiB  3.79 MiB/s 00:01 [##################################] 100%
+ galaxy                             2.7 MiB  5.27 MiB/s 00:01 [##################################] 100%
+ lib32                            168.8 KiB  1796 KiB/s 00:00 [##################################] 100%
+ universe                         124.8 KiB   132 KiB/s 00:01 [##################################] 100%
+ omniverse                        114.0 KiB  56.7 KiB/s 00:02 [##################################] 100%
+ extra                           1746.1 KiB   922 KiB/s 00:02 [##################################] 100%
+ community                          7.3 MiB   467 KiB/s 00:16 [##################################] 100%
+ multilib                         162.3 KiB   472 KiB/s 00:00 [##################################] 100%
+:: Starting full system upgrade...
+warning: audacity: ignoring package upgrade (1:2.4.1-9 => 1:3.2.5-1)
+warning: flac: ignoring package upgrade (1.3.4-3 => 1.4.2-1)
+warning: libopenmpt: ignoring package upgrade (0.6.4-1 => 0.6.8-1)
+warning: libsndfile: ignoring package upgrade (1.1.0-2 => 1.2.0-1)
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] ^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S artix-keyring
+warning: artix-keyring-20220901-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) artix-keyring-20220901-1
+
+Total Installed Size:  0.16 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+(1/1) checking keys in keyring                                [##################################] 100%
+(1/1) checking package integrity                              [##################################] 100%
+(1/1) loading package files                                   [##################################] 100%
+(1/1) checking for file conflicts                             [##################################] 100%
+(1/1) checking available disk space                           [##################################] 100%
+:: Processing package changes...
+(1/1) reinstalling artix-keyring                              [##################################] 100%
+==> Appending keys from artix.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --init
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate artix
+==> Appending keys from artix.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S kturtle
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] ^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Scc
+
+Cache directory: /var/cache/pacman/pkg/
+:: Do you want to remove ALL files from cache? [y/N] y
+removing all files from cache...
+
+Database directory: /var/lib/pacman/
+:: Do you want to remove unused repositories? [Y/n] y
+removing unused sync repositories...
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Sy artix-keyring
+:: Synchronizing package databases...
+ system is up to date
+ world is up to date
+ galaxy is up to date
+ lib32 is up to date
+ universe is up to date
+ omniverse is up to date
+ extra is up to date
+ community is up to date
+ multilib is up to date
+warning: artix-keyring-20220901-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) artix-keyring-20220901-1
+
+Total Download Size:   0.11 MiB
+Total Installed Size:  0.16 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ artix-keyring-20220901-1-any     112.7 KiB   132 KiB/s 00:01 [##################################] 100%
+(1/1) checking keys in keyring                                [##################################] 100%
+(1/1) checking package integrity                              [##################################] 100%
+(1/1) loading package files                                   [##################################] 100%
+(1/1) checking for file conflicts                             [##################################] 100%
+(1/1) checking available disk space                           [##################################] 100%
+:: Processing package changes...
+(1/1) reinstalling artix-keyring                              [##################################] 100%
+==> Appending keys from artix.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --init
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate artix
+==> Appending keys from artix.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate archlinux
+==> Appending keys from archlinux.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S kturtle
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Download Size:    6.00 MiB
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ knewstuff-5.103.0-1-x86_64      2034.0 KiB  1177 KiB/s 00:02 [##################################] 100%
+ kturtle-22.12.3-1-x86_64        2010.3 KiB  5.44 MiB/s 00:00 [##################################] 100%
+ syndication-5.103.0-1-x86_64    1024.5 KiB  2.94 MiB/s 00:00 [##################################] 100%
+ attica-5.103.0-1-x86_64          734.5 KiB  1791 KiB/s 00:00 [##################################] 100%
+ kpackage-5.103.0-1-x86_64        336.9 KiB  2.47 MiB/s 00:00 [##################################] 100%
+ Total (5/5)                        6.0 MiB  1787 KiB/s 00:03 [##################################] 100%
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] ^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S kturtle
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] ^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Scc
+
+Cache directory: /var/cache/pacman/pkg/
+:: Do you want to remove ALL files from cache? [y/N] y
+removing all files from cache...
+
+Database directory: /var/lib/pacman/
+:: Do you want to remove unused repositories? [Y/n] y
+removing unused sync repositories...
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Syu kturtle
+:: Synchronizing package databases...
+ system is up to date
+ world is up to date
+ galaxy is up to date
+ lib32 is up to date
+ universe is up to date
+ omniverse is up to date
+ extra is up to date
+ community is up to date
+ multilib is up to date
+:: Starting full system upgrade...
+warning: audacity: ignoring package upgrade (1:2.4.1-9 => 1:3.2.5-1)
+warning: flac: ignoring package upgrade (1.3.4-3 => 1.4.2-1)
+warning: libopenmpt: ignoring package upgrade (0.6.4-1 => 0.6.8-1)
+warning: libsndfile: ignoring package upgrade (1.1.0-2 => 1.2.0-1)
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Download Size:    6.00 MiB
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ knewstuff-5.103.0-1-x86_64      2034.0 KiB  1158 KiB/s 00:02 [##################################] 100%
+ kturtle-22.12.3-1-x86_64        2010.3 KiB  4.80 MiB/s 00:00 [##################################] 100%
+ syndication-5.103.0-1-x86_64    1024.5 KiB  4.05 MiB/s 00:00 [##################################] 100%
+ attica-5.103.0-1-x86_64          734.5 KiB  3.43 MiB/s 00:00 [##################################] 100%
+ kpackage-5.103.0-1-x86_64        336.9 KiB  2.19 MiB/s 00:00 [##################################] 100%
+ Total (5/5)                        6.0 MiB  2.16 MiB/s 00:03 [##################################] 100%
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (checksum)).
+Do you want to delete it? [Y/n] ^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Scc
+
+Cache directory: /var/cache/pacman/pkg/
+:: Do you want to remove ALL files from cache? [y/N] y
+removing all files from cache...
+
+Database directory: /var/lib/pacman/
+:: Do you want to remove unused repositories? [Y/n] y
+removing unused sync repositories...
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Sy artix-keyring
+:: Synchronizing package databases...
+ system is up to date
+ world is up to date
+ galaxy is up to date
+ lib32 is up to date
+ universe is up to date
+ omniverse is up to date
+ extra is up to date
+ community is up to date
+ multilib is up to date
+warning: artix-keyring-20220901-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) artix-keyring-20220901-1
+
+Total Download Size:   0.11 MiB
+Total Installed Size:  0.16 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ artix-keyring-20220901-1-any     112.7 KiB  57.1 KiB/s 00:02 [##################################] 100%
+(1/1) checking keys in keyring                                [##################################] 100%
+warning: Public keyring not found; have you run 'pacman-key --init'?
+downloading required keys...
+error: keyring is not writable
+error: required key missing from keyring
+error: failed to commit transaction (could not find or read file)
+Errors occurred, no packages were upgraded.
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --init
+gpg: /etc/pacman.d/gnupg/trustdb.gpg: trustdb created
+gpg: no ultimately trusted keys found
+gpg: starting migration from earlier GnuPG versions
+gpg: porting secret keys from '/etc/pacman.d/gnupg/secring.gpg' to gpg-agent
+gpg: migration succeeded
+==> Generating pacman master key. This may take some time.
+gpg: Generating pacman keyring master key...
+gpg: directory '/etc/pacman.d/gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/etc/pacman.d/gnupg/openpgp-revocs.d/93C82D63D945334FF00D66A73D2423A6F73B90EA.rev'
+gpg: Done
+==> Updating trust database...
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Sy artix-keyring
+:: Synchronizing package databases...
+ system is up to date
+ world is up to date
+ galaxy is up to date
+ lib32 is up to date
+ universe is up to date
+ omniverse is up to date
+ extra
+^C
+Interrupt signal received
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate archlinux
+==> Appending keys from archlinux.gpg...
+^C
+gpg: signal Interrupt caught ... exiting
+
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate artix
+gpg: checking the trustdb
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+==> Appending keys from artix.gpg...
+==> Locally signing trusted keys in keyring...
+  -> Locally signed 5 keys.
+==> Importing owner trust values...
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+==> Disabling revoked keys in keyring...
+  -> Disabled 1 keys.
+==> Updating trust database...
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   5  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   5  signed:  15  trust: 0-, 0q, 0n, 5m, 0f, 0u
+gpg: depth: 2  valid:  15  signed:   3  trust: 15-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -Sy artix-archlinux-support lib32-artix-archlinux-support
+:: Synchronizing package databases...
+ system is up to date
+ world is up to date
+ galaxy is up to date
+ lib32 is up to date
+ universe is up to date
+ omniverse is up to date
+ extra is up to date
+ community is up to date
+ multilib is up to date
+warning: artix-archlinux-support-2-1 is up to date -- reinstalling
+warning: lib32-artix-archlinux-support-1-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (2) artix-archlinux-support-2-1  lib32-artix-archlinux-support-1-1
+
+Total Download Size:   0.02 MiB
+Total Installed Size:  0.00 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] yn
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S artix-keyring
+warning: artix-keyring-20220901-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) artix-keyring-20220901-1
+
+Total Installed Size:  0.16 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+(1/1) checking keys in keyring                                [##################################] 100%
+(1/1) checking package integrity                              [##################################] 100%
+(1/1) loading package files                                   [##################################] 100%
+(1/1) checking for file conflicts                             [##################################] 100%
+(1/1) checking available disk space                           [##################################] 100%
+:: Processing package changes...
+(1/1) reinstalling artix-keyring                              [##################################] 100%
+==> Appending keys from artix.gpg...
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+==> Updating trust database...
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S artix-archlinux-support lib32-artix-archlinux-supportwarning: artix-archlinux-support-2-1 is up to date -- reinstalling
+warning: lib32-artix-archlinux-support-1-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (2) artix-archlinux-support-2-1  lib32-artix-archlinux-support-1-1
+
+Total Download Size:   0.02 MiB
+Total Installed Size:  0.00 MiB
+Net Upgrade Size:      0.00 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ artix-archlinux-support-2-1-any   14.6 KiB  28.0 KiB/s 00:01 [##################################] 100%
+ lib32-artix-archlinux-suppo...     2.3 KiB  10.5 KiB/s 00:00 [##################################] 100%
+ Total (2/2)                       16.9 KiB  18.0 KiB/s 00:01 [##################################] 100%
+(2/2) checking keys in keyring                                [##################################] 100%
+(2/2) checking package integrity                              [##################################] 100%
+(2/2) loading package files                                   [##################################] 100%
+(2/2) checking for file conflicts                             [##################################] 100%
+(2/2) checking available disk space                           [##################################] 100%
+:: Processing package changes...
+(1/2) reinstalling artix-archlinux-support                    [##################################] 100%
+(2/2) reinstalling lib32-artix-archlinux-support              [##################################] 100%
+sov-x550cc:[root]:/home/sov-thade-tage# pacman-key --populate archlinux
+==> Appending keys from archlinux.gpg...
+==> Locally signing trusted keys in keyring...
+  -> Locally signed 5 keys.
+==> Importing owner trust values...
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: inserting ownertrust of 4
+gpg: setting ownertrust to 4
+==> Disabling revoked keys in keyring...
+  -> Disabled 34 keys.
+==> Updating trust database...
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:  10  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:  10  signed: 110  trust: 0-, 0q, 0n, 10m, 0f, 0u
+gpg: depth: 2  valid:  87  signed:  30  trust: 87-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2023-07-03
+sov-x550cc:[root]:/home/sov-thade-tage# pacman -S kturtle
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (5) attica-5.103.0-1  knewstuff-5.103.0-1  kpackage-5.103.0-1  syndication-5.103.0-1
+             kturtle-22.12.3-1
+
+Total Download Size:    6.00 MiB
+Total Installed Size:  16.36 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ knewstuff-5.103.0-1-x86_64      2034.0 KiB  2.20 MiB/s 00:01 [##################################] 100%
+ kturtle-22.12.3-1-x86_64        2010.3 KiB  5.97 MiB/s 00:00 [##################################] 100%
+ syndication-5.103.0-1-x86_64    1024.5 KiB  3.61 MiB/s 00:00 [##################################] 100%
+ attica-5.103.0-1-x86_64          734.5 KiB  2.49 MiB/s 00:00 [##################################] 100%
+ kpackage-5.103.0-1-x86_64        336.9 KiB  2.79 MiB/s 00:00 [##################################] 100%
+ Total (5/5)                        6.0 MiB  2.64 MiB/s 00:02 [##################################] 100%
+(5/5) checking keys in keyring                                [##################################] 100%
+(5/5) checking package integrity                              [##################################] 100%
+error: kpackage: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/kpackage-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] y
+error: syndication: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/syndication-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] y
+error: knewstuff: signature from "Artix Buildbot <buildbot@artixlinux.org>" is invalid
+:: File /var/cache/pacman/pkg/knewstuff-5.103.0-1-x86_64.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] y
+error: failed to commit transaction (invalid or corrupted package)
+Errors occurred, no packages were upgraded.
+sov-x550cc:[root]:/home/sov-thade-tage# 
+
+```
