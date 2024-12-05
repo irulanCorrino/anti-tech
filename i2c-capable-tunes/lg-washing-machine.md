@@ -13,7 +13,7 @@
 - `e.` it repeats ACTION#D then several times with lesser amounts of dirt before going to tumbling stage;
 - `f.` it is impossible to program it for washing off the washer a multiple of times --so called 'Superwashing' program warms the water to 30¤C and makes two dryish turns;
 - `g.` it audibly LOADS SOME DATA before starting washing program --`'completeness_bit' => 'conditional block' => 'sensor_state' => 'conditional block' => 'some decisions'`;
-- `h.` IT REMEMBERS PREVIOUS PROGRAM!!! once i had noticed it has shortened 'Cotton Washing - Intensive' to 'Cotton Quickly' AFTER I HAD INTERRUPTED[^1]
+- `h.` IT REMEMBERS PREVIOUS PROGRAM!!! once i had noticed it has shortened 'Cotton Washing - Intensive' to 'Cotton Quickly' AFTER I HAD INTERRUPTED[^1][^2]
 PREVIOUS 'CWI' program to set it for another 'CWI' turn.
 - `conclusion.` it has `flash memory` and potentialy some reporting capability in a manner of `I2C-over-power-line` (idk).
 
@@ -21,4 +21,4 @@ PREVIOUS 'CWI' program to set it for another 'CWI' turn.
 - and it riducules music (`call for my shadow`) playing some trash and calculating a speed of double click.
 [^1]: Update: seven months later after making this mock i have run into a trouble --it cannot control its valve --i mean, yes, indeed it is A STATE MACHINE, but ...if pushing 'Power' during 'Draining' a trouble occurs ...badly. the only solution is to force it doing some petty work and the valve is closed by its own.
 CITATION: 'We can control all of user activity but we cannot control our valve' --LG Electronics
-
+[^2]: Update[2]: no. it just throws the washer down the well quietly. i've found this while taking shower during the 'CWI' laundry programm running. is like `-pre-washing-` option but without next accepting the main portion of the washer
